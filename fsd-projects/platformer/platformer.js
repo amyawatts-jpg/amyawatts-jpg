@@ -26,11 +26,17 @@ $(function () {
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
 
-    // TODO 1 - Enable the Grid
-    // toggleGrid();
+     //TODO 1 - Enable the Grid
+    toggleGrid(); 
 
 
     // TODO 2 - Create Platforms
+    createPlatform(600, 200)
+    createPlatform
+    createPlatform
+    createPlatform
+    createPlatform
+    createPlatform
 
 
 
